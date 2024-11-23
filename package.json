@@ -1,7 +1,7 @@
 {
   "name": "date-fns-app",
   "version": "1.0.0",
-  "main": "index.js",
+  "type": "module",
   "scripts": {
     "fix": "prettier --write . && eslint src/**/*",
     "lint": "prettier --check . && eslint --fix src/**/"
